@@ -97,6 +97,11 @@ export default function WidgetChart() {
             </div>
           </div>
         )}
+
+        <div className="Notice">
+         * Update 19th July 2021, we have been advised this afternoon by our laboratory that turnaround times (TAT) are currently closer to 48 hours than 24.
+        </div>
+
       </div>
     </React.Fragment>
   );
